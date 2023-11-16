@@ -4,13 +4,12 @@ Backend Developer / FHIR Developer / Open Source Lover / Educator
 
 ## Present & Experience
 - Chief Executive Officer / Sitatech Infromation Services Co., Ltd.
-- Deputy Secretary-General / Medical Image Standards Association of Taiwan (MISAT)
-- Director / Software Liberty Association Taiwan (SLAT)
-- Monitor / MI-TW Connectathon 2020
-- Co-Chair / MI-TW Connectathon 2021 Workgroup 1 (Track Patient)
+- Director / Medical Image Standards Association of Taiwan (MISAT)
+- Executive Director / Software Liberty Association Taiwan (SLAT)
+- Monitor / MI-TW Connectathon 2020-2023
+- Co-Chair / MI-TW Connectathon 2021-2023 (Track Patient, Long-Term Healthcare, Emergency Medical Service)
 
 ## Slides & Resources
-- https://www.slideshare.net/lorexyang
 - https://hackmd.io/r08gAIefT-yvwJj38llfbA
 
 ## Contacts
