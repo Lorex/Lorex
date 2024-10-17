@@ -4,10 +4,10 @@ Backend Developer / FHIR Developer / Open Source Lover / Educator
 
 ## Present & Experience
 - Chief Executive Officer / Sitatech Infromation Services Co., Ltd.
-- Director / Medical Image Standards Association of Taiwan (MISAT)
+- Director / Medical Image Standards Association of Taiwan (MISAT / DICOM Taiwan)
 - Executive Director / Software Liberty Association Taiwan (SLAT)
-- Monitor / MI-TW Connectathon 2020-2023
-- Co-Chair / MI-TW Connectathon 2021-2023 (Track Patient, Long-Term Healthcare, Emergency Medical Service)
+- Monitor / MI-TW Connectathon 2020-2024
+- Co-Chair / MI-TW Connectathon 2021-2024 (Track Patient, Long-Term Healthcare, Emergency Medical Service)
 
 ## Slides & Resources
 - https://hackmd.io/r08gAIefT-yvwJj38llfbA
