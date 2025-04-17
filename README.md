@@ -5,7 +5,7 @@ Backend Developer / FHIR Developer / Open Source Lover / Educator
 ## Present & Experience
 - Chief Executive Officer / Sitatech Infromation Services Co., Ltd.
 - Director / Medical Image Standards Association of Taiwan (MISAT / DICOM Taiwan)
-- Executive Director / Software Liberty Association Taiwan (SLAT)
+- Chairman / Software Liberty Association Taiwan (SLAT)
 - Monitor / MI-TW Connectathon 2020-2024
 - Co-Chair / MI-TW Connectathon 2021-2024 (Track Patient, Long-Term Healthcare, Emergency Medical Service)
 
@@ -15,4 +15,4 @@ Backend Developer / FHIR Developer / Open Source Lover / Educator
 ## Contacts
 If you have any idea, please leave your proposal via the following links.
 - Mail: ceo@sita.tech
-- Website: https://ceo.sita.tech
+- Website: https://ceo.sita.tech (currently under maintainance)
